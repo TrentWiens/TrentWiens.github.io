@@ -21,6 +21,7 @@ author: Trent Wiens
 
 navbar-links:
   About Me: "aboutme"
+  Top 10 Albums 2024: "album24"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
